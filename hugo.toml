@@ -1,0 +1,10 @@
+baseURL = "https://experera.com"
+languageCode = 'en-us'
+theme = "coming-soon"
+
+[params]
+title = "Experera"
+description = "please check back"
+message = "COMING SOON!"          # default is "COMING SOON" 
+release = "Mar 04, 2024"          # release date format: Aug 30, 2023 15:00
+background = ""                   # default is bg.mp4 in static/
