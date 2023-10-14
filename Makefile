@@ -1,4 +1,4 @@
-.PHONY: build deploy serve stop teardown
+.PHONY: build deploy teardown
 
 deploy: build
 	surge public/ placeholder.surge.jamiesteiner.com
